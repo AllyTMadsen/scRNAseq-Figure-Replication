@@ -8,6 +8,7 @@ not account for changes in individual cell-type proportion or gene expression, w
 investigate.  The purpose of this project was to replicate Supplementary Figure S9 and Figure 3a using hierarchical clustering and PCA analysis.
 
 **Methods:**
+
 **Data Processing in Python:**
 
   Counts Matrix Generation:
